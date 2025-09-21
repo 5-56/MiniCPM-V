@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary_color">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#A5B4FC</color>
+    
+    <!-- 辅助色 -->
+    <color name="accent_color">#F59E0B</color>
+    <color name="accent_dark">#D97706</color>
+    <color name="accent_light">#FCD34D</color>
+    
+    <!-- 背景色 -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F8FAFC</color>
+    <color name="background_tertiary">#F1F5F9</color>
+    <color name="background_dark">#1E293B</color>
+    
+    <!-- 卡片背景 -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#334155</color>
+    
+    <!-- 文本颜色 -->
+    <color name="primary_text">#1E293B</color>
+    <color name="secondary_text">#64748B</color>
+    <color name="tertiary_text">#94A3B8</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="black_text">#000000</color>
+    
+    <!-- 边框和分割线 -->
+    <color name="border_light">#E2E8F0</color>
+    <color name="border_medium">#CBD5E1</color>
+    <color name="border_dark">#94A3B8</color>
+    
+    <!-- 状态颜色 -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- 聊天消息颜色 -->
+    <color name="message_user_bg">#6366F1</color>
+    <color name="message_ai_bg">#F1F5F9</color>
+    <color name="message_user_text">#FFFFFF</color>
+    <color name="message_ai_text">#1E293B</color>
+    
+    <!-- 按钮颜色 -->
+    <color name="button_primary">#6366F1</color>
+    <color name="button_secondary">#F1F5F9</color>
+    <color name="button_danger">#EF4444</color>
+    <color name="button_success">#10B981</color>
+    
+    <!-- 语音波形颜色 -->
+    <color name="voice_wave_primary">#6366F1</color>
+    <color name="voice_wave_secondary">#A5B4FC</color>
+    <color name="voice_wave_active">#F59E0B</color>
+    
+    <!-- 相机界面颜色 -->
+    <color name="camera_overlay">#80000000</color>
+    <color name="camera_focus">#FFFFFF</color>
+    <color name="camera_capture_btn">#EF4444</color>
+    <color name="camera_capture_btn_pressed">#DC2626</color>
+    
+    <!-- 渐变背景 -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_end">#8B5CF6</color>
+    
+    <!-- 半透明颜色 -->
+    <color name="overlay_light">#80FFFFFF</color>
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_primary">#806366F1</color>
+    
+    <!-- 阴影颜色 -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="shadow_dark">#4D000000</color>
+    
+    <!-- 系统颜色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- 主题相关 -->
+    <color name="theme_light_background">#FFFFFF</color>
+    <color name="theme_light_surface">#F8FAFC</color>
+    <color name="theme_light_primary">#6366F1</color>
+    <color name="theme_light_text">#1E293B</color>
+    
+    <color name="theme_dark_background">#0F172A</color>
+    <color name="theme_dark_surface">#1E293B</color>
+    <color name="theme_dark_primary">#8B5CF6</color>
+    <color name="theme_dark_text">#F1F5F9</color>
+</resources>
